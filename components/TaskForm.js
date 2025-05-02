@@ -40,8 +40,7 @@ const styles = StyleSheet.create({
     fontSize: 16
   },
   inputWrapper: { 
-    margin: 15, 
-    padding: 5 
+    margin: 15
   },
   textInput: {
     borderColor: '#fff', 
